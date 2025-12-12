@@ -6,7 +6,7 @@
 
 ### Требования
 - .NET 10.0 SDK
-- Windows OS (из-за использования Windows Forms)
+- Windows
 
 ### Сборка и запуск
 
